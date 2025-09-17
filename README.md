@@ -1,5 +1,5 @@
 # **Proyecto de Modelos Predictivos: Regresión y Clasificación**  
-**Autora:** Ricardo Vallejo Sánchez  
+**Autor:** Ricardo Vallejo Sánchez  
 
 ## **📌 Descripción del Proyecto**  
 Este repositorio implementa un **flujo completo de ciencia de datos** para resolver dos problemas fundamentales en *machine learning*:  
